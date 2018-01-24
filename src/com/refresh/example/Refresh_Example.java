@@ -12,6 +12,7 @@ public class Refresh_Example {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		//After Commit
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Vikrant Nandan\\Desktop\\SQT\\Selenium WebDriver"
 				+ "\\Selenium Drivers\\Browser Driver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
